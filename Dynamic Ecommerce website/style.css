@@ -1,0 +1,161 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing:border-box;
+}
+body{
+    background-image:radial-gradient(rgb(177, 118, 152) 50% ,white);
+ } 
+#main{
+   width: 1200px;
+    margin: auto;
+   
+}
+#banner{
+    background-image: url(images/banner5.jpeg);
+    background-size: cover;
+    text-align: center;
+    height:200px;
+    padding:80px;
+    margin-bottom: 0px;
+    color: rgb(144, 92, 122);
+}
+#nav{
+    z-index: 1;
+}
+.navbar{
+    background-color: rgb(248, 248, 248);
+}
+.nav-item{
+    margin: 0px 30px 0px 30px;
+    font-size: larger;
+    font-weight: 700;
+}
+.nav-link{
+    color:rgb(195, 162, 181);
+}
+.nav-link:hover{
+    color:rgb(144, 92, 122);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#demo{
+    background-color:rgb(248, 248, 248);
+}
+.carousel-item{
+    padding: 5px;
+    text-align: center;
+}
+.carousel-inner img{
+    width: 570px;
+    height: 430px;
+    margin-bottom: 5px;
+    
+}
+footer{
+    text-align: center;
+    background-color: rgb(195, 162, 181);
+    color: rgb(108,63,90);
+    padding: 20px;
+    font-size:large;
+    font-weight: 700;
+}
+
+footer a{
+    color: rgb(108,63,90);
+}
+
+.imgdetails button{
+    background-color:rgb(195, 162, 181) ;
+}
+.imgdetails button:hover{
+    background-color:rgb(248, 248, 248);
+}
+#cart{
+    z-index: 2;
+    position:absolute;
+    top:0;
+    right:0;
+    color: rgb(91, 21, 60);
+    padding:5px;
+}
+#flexContainer{
+    background-image: linear-gradient(rgb(193, 143, 172) 75% ,white);
+    padding: 5px 8px 5px 8px;
+    border-radius: 10px;
+    max-height: 450px;
+    overflow-y:scroll;
+    overflow-x: hidden;
+    font-weight:400;
+    font-size: medium;
+    margin-top: 5px;
+}
+#buttons{
+    padding:3px;
+    margin-bottom:50px;
+}
+#finalBill h2 {
+    text-align: center;
+}
+#billTable{
+    position:absolute;
+    top:0; left:500px;
+    z-index: 2;
+    background-color: rgb(193, 143, 172);
+    width:700px;
+    padding:5px;
+    border-radius: 3px;
+    max-height: 450px;
+    overflow-y:scroll;
+    overflow-x: hidden;
+}
+
+table{
+    width:90%;
+    margin:auto;
+    border: 2px solid rgb(223, 199, 212);
+    color: rgb(91, 21, 60);
+}
+th,td{
+    width:20%;
+    text-align: center;
+    border: 2px solid rgb(223,199,212);
+    height: 50px;
+    padding:7px;
+}
+td{
+    font-weight: 600;
+}
+#bankInfo{
+    display:none;
+    position:absolute;
+    top:500px;
+    left:500px;
+    width: 700px;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: larger;
+    background-color:rgb(193, 143, 172);
+    color: rgb(91, 21, 60);
+    font-weight: 600;
+} 
+
+#bankInfo img{
+    height:40px;
+    width:40px;
+    margin-left:8px;
+    margin-top:8px;
+}
+#cardDetail{
+    float:left; 
+    margin-top:10px;
+    margin-left:0px;
+}
+#bankInfo input{
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 40px;
+}
+
+
+
+

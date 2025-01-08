@@ -1,0 +1,1 @@
+This is a dynamic E-Commerce Website developed using HTML, CSS, JavaScript and Bootstrap 4. Users can navigate using the navigation bar and add products to the cart. Then, they can checkout and see their total amount.

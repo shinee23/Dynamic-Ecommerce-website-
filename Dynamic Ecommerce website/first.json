@@ -1,0 +1,196 @@
+[{
+    "filter_id":1,
+    "products":[{
+                 "product_id":11,
+                 "product_name":"Chair",
+                 "imgSrc":"images/decor1.png",
+                 "price":3000
+                  },
+                  {
+                 "product_id":12,
+                 "product_name":"Wall Frames",
+                 "imgSrc":"images/decor2.jpg",
+                 "price":2500
+                  },
+                  {
+                     "product_id":13,
+                     "product_name":"Indoor Aloe",
+                     "imgSrc":"images/decor6.jpg",
+                     "price":2100
+                      },
+                  {
+                 "product_id":14,
+                 "product_name":"Lantern",
+                 "imgSrc":"images/decor4.jpg",
+                 "price":1800
+                  },
+                  {
+                 "product_id":15,
+                 "product_name":"Indoor Plant",
+                 "imgSrc":"images/decor5.jpg",
+                 "price":1900
+                  },
+                  {
+                  "product_id":16,
+                  "product_name":"Lamp",
+                  "imgSrc":"images/decor3.jpg",
+                  "price":3500
+                  }]
+    },
+    {
+     "filter_id":2,
+     "products":[{
+        "product_id":21,
+        "product_name":"Printed TShirt",
+        "imgSrc":"images/women1.jpeg",
+        "price":499
+         },
+         {
+        "product_id":22,
+        "product_name":"Flare Top",
+        "imgSrc":"images/women2.jpeg",
+        "price":699
+         },
+         {
+        "product_id":23,
+        "product_name":"Biege Blazer",
+        "imgSrc":"images/women3.jpeg",
+        "price":2000
+         },
+         {
+        "product_id":24,
+        "product_name":"Maroon short top",
+        "imgSrc":"images/women4.jpeg",
+        "price":850
+         },
+         {
+        "product_id":25,
+        "product_name":"Wavy Crop Top",
+        "imgSrc":"images/women5.jpeg",
+        "price":599
+         },
+         {
+        "product_id":26,
+        "product_name":"Top-Plazo",
+        "imgSrc":"images/women6.jpeg",
+        "price":955
+         }]
+    }, 
+    {
+     "filter_id":3,
+     "products":[{
+        "product_id":31,
+        "product_name":"Men's tie",
+        "imgSrc":"images/men9.jpg",
+        "price":799
+         },
+         {
+        "product_id":32,
+        "product_name":"Waist Coat",
+        "imgSrc":"images/men8.jpg",
+        "price":699
+         },
+         {
+        "product_id":33,
+        "product_name":"Printed shirt",
+        "imgSrc":"images/men6.jpg",
+        "price":2000
+         },
+         {
+        "product_id":34,
+        "product_name":"Checked shirt",
+        "imgSrc":"images/men5.jpg",
+        "price":850
+         },
+         {
+        "product_id":35,
+        "product_name":"Textured Jacket",
+        "imgSrc":"images/men4.jpeg",
+        "price":599
+         },
+         {
+        "product_id":36,
+        "product_name":"Designer shirt",
+        "imgSrc":"images/men1.jpeg",
+        "price":955
+         }]
+    }, 
+    {
+     "filter_id":4,
+     "products":[{
+        "product_id":41,
+        "product_name":"Kheer",
+        "imgSrc":"images/food1.jpeg",
+        "price":799
+         },
+         {
+        "product_id":42,
+        "product_name":"Assorted Sweets",
+        "imgSrc":"images/food2.jpeg",
+        "price":699
+         },
+         {
+        "product_id":43,
+        "product_name":"Dosa",
+        "imgSrc":"images/food3.jpeg",
+        "price":2000
+         },
+         {
+        "product_id":44,
+        "product_name":"Idly",
+        "imgSrc":"images/food4.jpeg",
+        "price":850
+         },
+         {
+        "product_id":45,
+        "product_name":"Pizza",
+        "imgSrc":"images/food5.jpeg",
+        "price":599
+         },
+         {
+        "product_id":46,
+        "product_name":"Pasta",
+        "imgSrc":"images/food7.jpeg",
+        "price":955
+         }]
+    }, 
+    {
+     "filter_id":5,
+     "products":[{
+        "product_id":51,
+        "product_name":"Laptop",
+        "imgSrc":"images/gadg1.jpg",
+        "price":799
+         },
+         {
+        "product_id":52,
+        "product_name":"Earbuds",
+        "imgSrc":"images/gadg2.jpg",
+        "price":699
+         },
+         {
+        "product_id":53,
+        "product_name":"Joystick",
+        "imgSrc":"images/gadg9.jpg",
+        "price":2000
+         },
+         {
+        "product_id":54,
+        "product_name":"Nikon DSLR",
+        "imgSrc":"images/gadg7.jpg",
+        "price":850
+         },
+         {
+        "product_id":55,
+        "product_name":"Tablet",
+        "imgSrc":"images/gadg5.jpg",
+        "price":599
+         },
+         {
+        "product_id":56,
+        "product_name":"Camera",
+        "imgSrc":"images/gadg6.jpg",
+        "price":955
+         }]
+    }
+]              
