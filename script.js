@@ -36,7 +36,6 @@ function jsfetch(filterId)
   let val = getCookie("username");
   if((val!="")&&(val!=null)){
     document.getElementById("cart").innerHTML= localStorage.getItem("finalHTML");
-    alert("cookie")// for checking, remove this line later.
   }
   fetch("first.json").then((response)=>response.json()).then((myObject)=>{
       for(let k in myObject)
@@ -487,7 +486,6 @@ function backToHome(){
     document.getElementById("back").innerHTML=`<div class="carous">
         <div id="demo" class="carousel slide" data-ride="carousel">
 
-            <!-- Indicators -->
           <ul class="carousel-indicators">
             <li data-target="#demo" data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>
@@ -495,7 +493,7 @@ function backToHome(){
             <li data-target="#demo" data-slide-to="4"></li>
             <li data-target="#demo" data-slide-to="5"></li>
           </ul>
-            <!-- The slideshow -->
+    
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <img src="images/home1.jpg" alt="Home Decor">
@@ -528,7 +526,7 @@ function backToHome(){
                 <img src="images/gadget5.jpg" alt="Gadget">
               </div>
             </div>
-            <!-- Left and right controls -->
+          
             <a class="carousel-control-prev" href="#demo" data-slide="prev">
               <span class="carousel-control-prev-icon"></span>
             </a>
