@@ -1,1 +1,1 @@
-This is a dynamic E-Commerce Website developed using HTML, CSS, JavaScript and Bootstrap 4. Users can navigate using the navigation bar and add products to the cart. Then, they can checkout and see their total amount.
+A comprehensive eCommerce website with features such as a dynamic homepage, and a functional shopping cart. Users can browse products, add them to the cart, and proceed through a checkout process. It displays a final bill upon checkout and supports a payment form for completing the purchase.
