@@ -98,7 +98,7 @@ footer a{
 }
 #billTable{
     position:absolute;
-    top:0; left:500px;
+    top:0; left:300px;
     z-index: 2;
     background-color: rgb(193, 143, 172);
     width:700px;
@@ -129,7 +129,7 @@ td{
     display:none;
     position:absolute;
     top:500px;
-    left:500px;
+    left:300px;
     width: 700px;
     padding: 15px;
     border-radius: 8px;
