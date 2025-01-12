@@ -170,7 +170,7 @@ function displayProduct(products_array){
 
           let currentHTML=newDiv.innerHTML;
           let inputHTML=`<input style="margin-left:10px;text-align:center;border-radius:3px; border:none;background-color:rgb(212, 184, 201)"
-           type="number" id="i${id}" value="1">`;
+           type="number" id="i${id}" value="1" onchange="populateQuantity(${false})">`;
           currentHTML+=inputHTML;
           newDiv.innerHTML=currentHTML; 
 
