@@ -219,7 +219,7 @@ function displayProduct(products_array){
 
       else
       {
-        let uname=prompt("Introduce Yourself");
+        let uname=prompt("Enter your name");
 	      if(!(uname===null)&&!(uname==="")) 
 	      {
 	        setCookie("username",uname);
